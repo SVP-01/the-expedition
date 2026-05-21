@@ -59,3 +59,4 @@ npm run build
 5. Deploy the site, then share the generated Vercel URL with both users.
 
 The app uses `vercel.json` so Vercel knows how to build and serve the SPA correctly.
+Deploying!
